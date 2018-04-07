@@ -13,4 +13,3 @@ const allPossible = (root, arr = []) => {
         arr.pop();
     }
 }
-
